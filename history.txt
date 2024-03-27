@@ -1,0 +1,423 @@
+    1  ssh 0e18d41b613b@0e18d41b613b.ffa7c3a3.alx-cod.online
+    2  exit
+    3  ssh 0e18d41b613b@0e18d41b613b.ffa7c3a3.alx-cod.online
+    4  ssh 0e18d41b613b@0e18d41b613b.ffa7c3a3.alx-cod.online
+    5  ssh 0e18d41b613b@0e18d41b613b.ffa7c3a3.alx-cod.online
+    6  exxit
+    7  exit
+    8  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+    9  exit
+   10  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   11  exit
+   12  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   13  exit
+   14  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   15  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   16  exit
+   17  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   18  exit
+   19  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   20  exit
+   21  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   22  exit
+   23  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   24  exit
+   25  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   26  exit
+   27  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   28  exit
+   29  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   30  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   31  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   32  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   33  exit
+   34  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   35  exit
+   36  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   37  exit
+   38  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   39  exit
+   40  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   41  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   42  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   43  exit
+   44  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   45  ssh cb6b6e99d80a@cb6b6e99d80a.5d75dcb3.alx-cod.online
+   46  exit
+   47  mkdir c_code
+   48  cd c_code
+   49  vi c_intro.c
+   50  gcc -o myintro
+   51  gcc c_code -o myintro
+   52  gcc --vesion
+   53  gcc --version
+   54  exit
+   55  gcc instll
+   56  gcc --version
+   57  man --version
+   58  man gcc
+   59  up
+   60  clear
+   61  exit
+   62  git gcc
+   63  gcc
+   64  gcc --version
+   65  --version --help
+   66  instal gcc
+   67  gcc --versin
+   68  exit
+   69  vagrant up
+   70  gcc --version
+   71  vagrant --help
+   72  vagrant -h
+   73  gcc -h
+   74  gcc man
+   75  man gcc
+   76  vagrant --debug
+   77  gcc version
+   78  exit
+   79  ls
+   80  cd c_code
+   81  ls
+   82  gcc c_intro.c -o my_test1
+   83  ls
+   84  ./my_test1
+   85  exit
+   86  ls
+   87  cd c_code
+   88  clear
+   89  ls
+   90  vi c_intro.c
+   91  gcc c_intro.c -o my_test1
+   92  ./my_test1
+   93  ls
+   94  vi var.c
+   95  ls
+   96  gcc var.c -o my_var
+   97  ./my_var
+   98  vi d_typs.c
+   99  vi printf.c
+  100  vi calc.c
+  101  gcc calc.c -o my_calc
+  102  vi calc.c
+  103  ls
+  104  gcc calc.c -o my_calc
+  105  ./my_calc
+  106  vi calc.c
+  107  gcc calc.c -o my_calc
+  108  ./my_calc
+  109  vi calc.c
+  110  gcc calc.c -o my_calc
+  111  ls
+  112  vi calc.c
+  113  gcc calc.c -o my_calc
+  114  ./my_calc
+  115  ./my_calc
+  116  vi c_game.c
+  117  gcc c_game.c -o my_game1
+  118  vi c_game.c
+  119  gcc c_game.c -o my_game
+  120  vi c_game.c
+  121  gcc c_game.c -o my_game
+  122  ./my_game
+  123  ls
+  124  vi c_game.c
+  125  vi arraysic.c
+  126  ls
+  127  gcc arraysic.c -o my_arrays
+  128  vi arraysic.c
+  129  gcc arraysic.c -o my_arrays
+  130  vi arraysic.c
+  131  gcc arraysic.c -o my_arrays
+  132  vi arraysic.c
+  133  gcc arraysic.c -o my_array
+  134  ./my_array
+  135  exit
+  136  ls
+  137  cd c_code
+  138  vi functioninc.c
+  139  gcc functioninc.c -o my_function
+  140  vi functioninc.c
+  141  gcc functioninc.c -o my_function
+  142  vi functioninc.c
+  143  vi functioninc.c
+  144  gcc functioninc.c -o my_function
+  145  vi functioninc.c
+  146  gcc functioninc.c -o my_fuction
+  147  vi functioninc.c
+  148  gcc functioninc.c -o my_function
+  149  vi functioninc.c
+  150  gcc functioninc.c -o my_function
+  151  ./my_function
+  152  vi functioninc.c
+  153  gcc functioninc.c -o my_function
+  154  ./my_function
+  155  ls
+  156  vi functioninc.c
+  157  gcc functioninc.c -o my_function
+  158  ./my_function
+  159  vi functioninc.c
+  160  gcc functioninc.c -o my_function
+  161  ./my_function
+  162  vi functio2.c
+  163  gcc function2.c -o my_secondf
+  164  ls
+  165  gcc functio2 -o my_secondf
+  166  gcc functio2.c -o my_secondf
+  167  vi functio2.c
+  168  ls
+  169  vi function2
+  170  rm function2.c
+  171  gcc functio2.c -o my_secondf
+  172  ./my_secondf
+  173  vi ifstatemants.c
+  174  gcc ifstatemants.c -o my_if
+  175  vi ifstatemants.c 
+  176  gcc ifstatemants.c -o my_if
+  177  ./my_if
+  178  vi ifstatemants.c
+  179  vi switch.c
+  180  gcc switch.c -o my_switch
+  181  ./my_switch
+  182  vi struct.c
+  183  gcc struct.c -o my_struct
+  184  vi struct.c
+  185  gcc struct.c -o my_struct
+  186  man strcpy
+  187  vi struct.c
+  188  gcc struct.c -o my_struct
+  189  vi struct.c
+  190  gcc struct.c -o my_struct
+  191  vi struct.c
+  192  gcc struct.c -o my_struct
+  193  ./my_struct
+  194  vi struct.c
+  195  exit
+  196  ls
+  197  cd c_code
+  198  vi memory.c
+  199  vi pointer.c
+  200  vi deref.c
+  201  vi files.c
+  202  gcc files.c -o my_file
+  203  ./my_file
+  204  vi files.c
+  205  gcc files.c -o my_file
+  206  ./my_file
+  207  vi readf.c
+  208  gcc readf.c -o my_read
+  209  ./my_read
+  210  exit
+  211  ls
+  212  c_code
+  213  dc c_code
+  214  ls
+  215  cd c_code
+  216  ls
+  217  vi files.c
+  218  cd ..
+  219  ssh 0b91f65b9146@0b91f65b9146.3d34c52b.alx-cod.online
+  220  exit
+  221  ls
+  222  cd~
+  223  exit
+  224  ls
+  225  ls /umuzi
+  226  clear
+  227  pwd
+  228  ls /
+  229  cd /c/Users/famely/Desktop
+  230  pwd
+  231  ls
+  232  cd /c
+  233  ls
+  234  cd /
+  235  ls
+  236  cd /c/Windows
+  237  /s
+  238  ls
+  239  cd /c
+  240  ls
+  241  cd /Users
+  242  cd /users
+  243  cd~
+  244  exit
+  245  pwd
+  246  cd Desktop
+  247  ls
+  248  clear
+  249  ls
+  250  cd Desktop - Shortcut.lnk'*
+  251  clear
+  252  pwd
+  253  mkdir work
+  254  cd
+  255  exit
+  256  cd /Desktop
+  257  cd Desktop
+  258  ls
+  259  exit
+  260  ls
+  261  cd oneDrive
+  262  ls
+  263  ls
+  264  cd Desktop
+  265  ls
+  266  cd umuzi
+  267  ls
+  268  mkdir repoproject
+  269  ls
+  270  cd repoproject
+  271  ls
+  272  git clone https://github.com/Umuzi-org/Mthokozisi-Mlotjwa-394-bash-for-bootcamp-.git
+  273  clear
+  274  get clone https://github.com/Umuzi-org/Mthokozisi-Mlotjwa-394-bash-for-bootcamp-.git
+  275  git clone https://github.com/Umuzi-org/Mthokozisi-Mlotjwa-394-bash-for-bootcamp-.git
+  276  ls
+  277  man cd
+  278  man cd
+  279  man ls
+  280  ma
+  281  git status
+  282  ls
+  283  cd Mthokozisi-Mlotjwa-394-bash-for-bootcamp-/
+  284  git status
+  285  git add .
+  286  git status
+  287  git commit -m "quesions and answers for Beginning Bash project"
+  288  exit
+  289  ls
+  290  cd oneDrive
+  291  ls
+  292  cd Desktop
+  293  ls
+  294  cd umuzi
+  295  ls
+  296  cd repoproject
+  297  ls
+  298  cd Mthokozisi-Mlotjwa-394-bash-for-bootcamp-/
+  299  git status
+  300  ls
+  301  clear
+  302  exit
+  303  ls
+  304  cd  OneDrive/
+  305  cd Desktop
+  306  ls
+  307  cd umuzi/
+  308  ls
+  309  cd 10.md
+  310  cd test
+  311  ls
+  312  cd mockdown_file
+  313  ls
+  314  rmdir test
+  315  ls
+  316  cd ..
+  317  clear
+  318  ls
+  319  cd repoproject/
+  320  ls
+  321  cd Mthokozisi-Mlotjwa-394-bash-for-bootcamp-/
+  322  git status
+  323  git add .
+  324  git status
+  325  git commit -m "ajusted explanations"
+  326  cd ../..
+  327  exit
+  328  ls
+  329  cd OneDrive/
+  330  ls
+  331  cd Desktop/
+  332  ls
+  333  cd umuzi
+  334  ls
+  335  mkdir git-basic-exercises
+  336  ls
+  337  cd git-basic-exercises
+  338  ls
+  339  clear
+  340  ls -a
+  341  git init
+  342  ls -a
+  343  clear
+  344  git status
+  345  touch README.md
+  346  ls -a
+  347  git status
+  348  clear
+  349  git log
+  350  git add .
+  351  git status
+  352  git rm --cached README.md
+  353  git status
+  354  git add .
+  355  git status
+  356  git commit -m "initial commit"
+  357  git log
+  358  q
+  359  git q
+  360  exit
+  361  ls
+  362  cd  OneDrive/
+  363  ls
+  364  cd Desktop
+  365  ls
+  366  cd umuzi
+  367  ls
+  368  cd git-basic-exercises
+  369  nano README.md
+  370  cat README.md
+  371  git status
+  372  git add README.md
+  373  git status
+  374  git commit -m "second commit"
+  375  nano README.md
+  376  cat README.md
+  377  git status
+  378  git add README.md
+  379  git status
+  380  git commit -m "third commit"
+  381  git log
+  382  git checkout bd68d2a79a35aad9dfac6443e8d726d625c78a8b
+  383  ls
+  384  cat README.md
+  385  git checkout main
+  386  cd ..
+  387  ls
+  388  cd git-basic-exercises/
+  389  git checkout main
+  390   git switch -
+  391  cat README.md
+  392  exit
+  393  ls
+  394  cd  OneDrive/
+  395  ls
+  396  cd Desktop
+  397  ls
+  398  cd umuzi
+  399  ls
+  400  cd git-basic-exercises/
+  401  git milkshake-flavours
+  402  git branch milkshake-flavours
+  403  git branch
+  404  git checkout milkshake-flavours
+  405  git branch
+  406  git checkout master
+  407  git branch
+  408  git checkout milkshake-flavours
+  409  nano milkshakes.md
+  410  git status
+  411  git add .
+  412  git status
+  413  git commit -m "added initial flavours"
+  414  git log
+  415  git checkout master
+  416  git log
+  417  git branch history
+  418  git branch
+  419  git checkout history
+  420  git brach
+  421  git branch
+  422  git log
+  423  history > history.txt
